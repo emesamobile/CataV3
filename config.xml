@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.catadelbarrio.laestacion" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Cata del Barrio la Estacion v3</name>
+    <name>Cata del Barrio la Estacion 2020</name>
     <description>
-        Toda la información sobre el evento de La Cata del Barrio de la Estación de Haro.
+        Toda la información sobre el evento de La Cata del Barrio de la Estación de Haro el día 20 Junio del 2020.
     </description>
     <author email="rsainz@emesa.com" href="http://emesasoftware.com">
         Emesa Software
