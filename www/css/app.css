@@ -705,3 +705,6 @@ h5 {
 .actividad {
   color: #000000;
 }
+.popup.popup-bodegas a.external{
+  color: white;
+}
