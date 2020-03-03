@@ -15,12 +15,12 @@
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
-    <name>Cata del Barrio la Estacion v3</name>
+    <name>Cata del Barrio la Estacion 2020</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Toda la información sobre el evento de La Cata del Barrio de la Estación de Haro el día 20 Junio del 2020.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="rsainz@emesa.com" href="http://emesasoftware.com">
+        Emesa Software
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -32,22 +32,22 @@
     <allow-intent href="geo:*" />
     <allow-navigation href="*" />
     <allow-intent href="market:*" />
-    <splash density="land-hdpi" src="res/screen/android/drawable-hdpi/screen.png" />
-    <splash density="land-mdpi" src="res/screen/android/drawable-mdpi/screen.png" />
-    <splash density="land-xhdpi" src="res/screen/android/drawable-xhdpi/screen.png" />
-    <splash density="land-xxhdpi" src="res/screen/android/drawable-xxhdpi/screen.png" />
-    <splash density="land-xxxhdpi" src="res/screen/android/drawable-xxxhdpi/screen.png" />
+    <splash density="land-hdpi" src="res/screen/android/drawable-hdpi/screen-hdpi-landscape.png" />
+    <splash density="land-mdpi" src="res/screen/android/drawable-mdpi/screen-mdpi-landscape.png" />
+    <splash density="land-xhdpi" src="res/screen/android/drawable-xhdpi/screen-xhdpi-landscape.png" />
+    <splash density="land-xxhdpi" src="res/screen/android/drawable-xxhdpi/screen-xhdpi-landscape.png" />
+    <splash density="land-xxxhdpi" src="res/screen/android/drawable-xxxhdpi/screen-xhdpi-landscape.png" />
     <splash density="port-hdpi" src="res/screen/android/drawable-hdpi/screen.png" />
     <splash density="port-mdpi" src="res/screen/android/drawable-mdpi/screen.png" />
     <splash density="port-xhdpi" src="res/screen/android/drawable-xhdpi/screen.png" />
     <splash density="port-xxhdpi" src="res/screen/android/drawable-xxhdpi/screen.png" />
     <splash density="port-xxxhdpi" src="res/screen/android/drawable-xxxhdpi/screen.png" />
-    <icon density="ldpi" src="res/icon/android/mipmap-ldpi/ic_launcher.png" />
-    <icon density="mdpi" src="res/icon/android/mipmap-mdpi/ic_launcher.png" />
-    <icon density="hdpi" src="res/icon/android/mipmap-hdpi/ic_launcher.png" />
-    <icon density="xhdpi" src="res/icon/android/mipmap-xhdpi/ic_launcher.png" />
-    <icon density="xxhdpi" src="res/icon/android/mipmap-xxhdpi/ic_launcher.png" />
-    <icon density="xxxhdpi" src="res/icon/android/mipmap-xxxhdpi/ic_launcher.png" />
+    <icon density="ldpi" src="res/icon/android/mipmap-ldpi/icon-36-ldpi.png" />
+    <icon density="mdpi" src="res/icon/android/mipmap-mdpi/icon-48-mdpi.png" />
+    <icon density="hdpi" src="res/icon/android/mipmap-hdpi/icon-72-hdpi.png" />
+    <icon density="xhdpi" src="res/icon/android/mipmap-xhdpi/icon-96-xhdpi.png" />
+    <icon density="xxhdpi" src="res/icon/android/mipmap-xxhdpi/icon-96-xhdpi.png" />
+    <icon density="xxxhdpi" src="res/icon/android/mipmap-xxxhdpi/icon-96-xhdpi.png" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />

@@ -37,12 +37,12 @@
         <param name="ios-package" value="CDVWKWebViewFileXhr" />
         <param name="onload" value="true" />
     </feature>
-    <name>Cata del Barrio la Estacion v3</name>
+    <name>Cata del Barrio la Estacion 2020</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Toda la información sobre el evento de La Cata del Barrio de la Estación de Haro el día 20 Junio del 2020.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="rsainz@emesa.com" href="http://emesasoftware.com">
+        Emesa Software
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -59,25 +59,25 @@
         <true />
     </config-file>
     <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
-    <icon height="180" src="res/icon/ios/icon-60x60@3x.png" width="180" />
-    <icon height="60" src="res/icon/ios/icon-60x60@1x.png" width="60" />
-    <icon height="120" src="res/icon/ios/icon-60x60@2x.png" width="120" />
-    <icon height="76" src="res/icon/ios/icon-76x76@1x.png" width="76" />
-    <icon height="152" src="res/icon/ios/icon-76x76@2x.png" width="152" />
-    <icon height="228" src="res/icon/ios/icon-76x76@3x.png" width="228" />
-    <icon height="40" src="res/icon/ios/icon-40x40@1x.png" width="40" />
-    <icon height="80" src="res/icon/ios/icon-40x40@2x.png" width="80" />
-    <icon height="87" src="res/icon/ios/icon-29x29@3x.png" width="87" />
-    <icon height="57" src="res/icon/ios/icon-57x57@1x.png" width="57" />
-    <icon height="114" src="res/icon/ios/icon-57x57@2x.png" width="114" />
-    <icon height="72" src="res/icon/ios/icon-72x72@1x.png" width="72" />
-    <icon height="144" src="res/icon/ios/icon-72x72@2x.png" width="144" />
-    <icon height="29" src="res/icon/ios/icon-29x29@1x.png" width="29" />
-    <icon height="58" src="res/icon/ios/icon-29x29@2x.png" width="58" />
-    <icon height="50" src="res/icon/ios/icon-50x50@1x.png" width="50" />
-    <icon height="100" src="res/icon/ios/icon-50x50@2x.png" width="100" />
-    <icon height="167" src="res/icon/ios/icon-83.5x83.5@2x.png" width="167" />
-    <icon height="1024" src="res/icon/ios/icon-512x512@2x.png" width="1024" />
+    <icon height="180" src="res/icon/ios/icon-60@3x.png" width="180" />
+    <icon height="60" src="res/icon/ios/icon-60@1x.png" width="60" />
+    <icon height="120" src="res/icon/ios/icon-60@2x.png" width="120" />
+    <icon height="76" src="res/icon/ios/icon-76@1x.png" width="76" />
+    <icon height="152" src="res/icon/ios/icon-76@2x.png" width="152" />
+    <icon height="228" src="res/icon/ios/icon-76@3x.png" width="228" />
+    <icon height="40" src="res/icon/ios/icon-40@1x.png" width="40" />
+    <icon height="80" src="res/icon/ios/icon-40@2x.png" width="80" />
+    <icon height="87" src="res/icon/ios/icon-29@3x.png" width="87" />
+    <icon height="57" src="res/icon/ios/icon-57@1x.png" width="57" />
+    <icon height="114" src="res/icon/ios/icon-57@2x.png" width="114" />
+    <icon height="72" src="res/icon/ios/icon-72@1x.png" width="72" />
+    <icon height="144" src="res/icon/ios/icon-72@2x.png" width="144" />
+    <icon height="29" src="res/icon/ios/icon-29@1x.png" width="29" />
+    <icon height="58" src="res/icon/ios/icon-29@2x.png" width="58" />
+    <icon height="50" src="res/icon/ios/icon-50@1x.png" width="50" />
+    <icon height="100" src="res/icon/ios/icon-50@2x.png" width="100" />
+    <icon height="167" src="res/icon/ios/icon-83.5@2x.png" width="167" />
+    <icon height="1024" src="res/icon/ios/icon-512@2x.png" width="1024" />
     <preference name="AllowInlineMediaPlayback" value="true" />
     <preference name="BackupWebStorage" value="local" />
     <preference name="DisallowOverscroll" value="true" />
